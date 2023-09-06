@@ -87,6 +87,8 @@ and classification model:
 
 <img src="images/seatTFS.gif">
 
+You can try detection model in this [link](https://a1be-34-173-35-26.ngrok-free.app).
+
 ## 🔧 Dependencies and Installation
 
 #### Requirements

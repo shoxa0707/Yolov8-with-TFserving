@@ -1,0 +1,4 @@
+tensorflow-serving-api
+basicsr
+requests
+grpcio

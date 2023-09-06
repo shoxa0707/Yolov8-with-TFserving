@@ -3,3 +3,4 @@ streamlit
 basicsr
 requests
 grpcio
+matplotlib

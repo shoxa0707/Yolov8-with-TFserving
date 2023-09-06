@@ -13,6 +13,7 @@ First of all you need to make sure that you have all the requirements installed,
 Your Ubuntu VM you need to install tensorflow-model-server, but before being able to install it you need to add the TF-Serving distribution URI as a package source as it follows:
 
 ```console
+docker pull tensorflow/serving
 echo "deb [arch=amd64] http://storage.googleapis.com/tensorflow-serving-apt stable tensorflow-model-server tensorflow-model-server-universal"
 sudo tee /etc/apt/sources.list.d/tensorflow-serving.list
 curl https://storage.googleapis.com/tensorflow-serving-apt/tensorflow-serving.release.pub.gpg

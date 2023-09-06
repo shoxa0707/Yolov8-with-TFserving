@@ -1,4 +1,5 @@
 tensorflow-serving-api
+streamlit
 basicsr
 requests
 grpcio
